@@ -1,0 +1,8 @@
+1 Sube tu codigo fuente a tu servidor local o hosting de Preferencia
+2 crea tu base de datos asignale un nombre, un usuario, y una contraseña
+3 importa el archivo.sql que se encuentra en esta carpeta
+4 configura el archivo .env en la siguiente ruta project\vendor\markury\src\.env
+5 una ves lo configure te permitira trabajar su sistema completamente 
+
+
+el usuario administrador es admin@gmail.com clave 1234
